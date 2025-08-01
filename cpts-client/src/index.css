@@ -1,0 +1,5 @@
+/* do not remove this if u want tailwind to work */
+@import "tailwindcss";
+.font-leckerli {
+  font-family: "Leckerli One", cursive;
+}
